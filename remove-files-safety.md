@@ -7,7 +7,7 @@ description: >
   any file or folder in the project.
 license: Apache-2.0
 metadata:
-  author: gentleman-programming
+  author: jimmmy.dev
   version: "1.0"
 ---
 
